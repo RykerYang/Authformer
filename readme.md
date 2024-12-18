@@ -1,9 +1,9 @@
-# Authformer: adaptive multimodal biometric authentication transformer for middle-aged and elderly people
+# Authformer: adaptive multimodal biometric authentication transformer
 
 ## News
-### 🥸 Our paper has been submitted to the ICASSP conference. Wish us good luck! 🍀🍀🍀
+### 🥸 Our paper has been submitted to the ICME conference. Wish us good luck! 🍀🍀🍀
 ### 🤩 We have uploaded part of the code, and the complete training and fine-tuning code will be made publicly available after the paper is published.
-### 🤩 The conference has returned the reviews. We sincerely thank the reviewers for their effort and time.❤️❤️❤️ Some reviewers seem to have misunderstood our approach, and we are working hard to provide a detailed response.
+### 🤩 The conference has returned the reviews. We sincerely thank the reviewers for their effort and time.❤️❤️❤️ 
 
 ### 🦾 To help you better understand, I have provided examples of special population cases. These include: a. A 79-year-old mute individual, b. An individual with right ear injury and deformation, c. A person with missing fingers, d. A person with a palm tumor, e. An individual with deformed finger joints, f. A person with rheumatoid arthritis requiring contactless palmprints.
 
